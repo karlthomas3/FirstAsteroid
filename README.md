@@ -1,5 +1,6 @@
 # MyFirstAsteroid
 #### Video Demo:  <https://youtu.be/nQAiUIJXNd8>
+
 #### Description: A simple asteroid clone
 
 ## CS50
